@@ -43,6 +43,10 @@ a:hover{
     width: 300px;
     height: 400px;
     float: left;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
 }
 .rolam{
     background-color: #ffffff9a;
